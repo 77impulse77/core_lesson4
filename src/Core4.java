@@ -34,4 +34,5 @@ public class Core4 {
 
 
 }
+//интересное дз
 
